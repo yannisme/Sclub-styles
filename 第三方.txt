@@ -1,0 +1,72 @@
+<script type="text/javascript" src="http://help.imotor.com/attachments/month_1602/16022312383b2701cbbd8d7178.attach"></script>
+
+<a href="#" onclick="gotoTop();return false;" class="totop"></a>
+
+<style>
+#index #umenu{display:none;}
+#header {line-height: 98px;
+    background: #FFF url(//www.wpdaxue.com/wp-content/themes/WD2016/images/header-top.png) repeat-x top center;
+    border-bottom: 1px solid #d3d5d7;
+    -webkit-box-shadow: 0 0 5px 0 #e2e3e4;
+    -moz-box-shadow: 0 0 5px 0 #e2e3e4;
+    box-shadow: 0 0 5px 0 #e2e3e4;
+    position: relative;
+    z-index: 18;
+    margin-bottom: 30px;
+}
+.totop{position:fixed;right:25px;bottom:25px;display:block;width:26px;height:62px;background:url(http://help.imotor.com/attachments/month_1602/16022312409edcb24bf1e26d98.png) no-repeat 0 0;-webkit-transition: all 0.2s ease-in-out;}
+.totop:hover{background:url(http://help.imotor.com/attachments/month_1602/16022312409edcb24bf1e26d98.png) no-repeat 0 -62px;}
+#menu a:hover {background:none!important;
+}
+#menu li.current a{
+    background:none!important;
+}
+
+#index #header {
+line-height: 103px;
+    background: #FFF url(http://i13.tietuku.com/e087359f1c5cec3c.jpg) repeat-x top center;
+    border-bottom: 1px solid #d3d5d7;
+    -webkit-box-shadow: 0 0 5px 0 #e2e3e4;
+    -moz-box-shadow: 0 0 5px 0 #e2e3e4;
+    box-shadow: 0 0 5px 0 #e2e3e4;
+    position: relative;
+    z-index: 18;
+    margin-bottom: 30px;
+    height: 100%;
+}
+.with_side .side a {
+    color: #09C;
+    text-decoration: NONE;
+}
+
+#nav, #nav a {
+    margin-top: -25px;
+}
+
+
+
+
+#index.with_side .side, 
+#index.sidebox {    width: 25%!important;
+    padding: 0 0 50px 0px!important;
+}
+
+div#infoside {position: relative;
+    z-index: 19;
+    top: 200px;
+}  
+
+#index  table{position: fixed;z-index:99999999;}
+
+#index  table div{position: fixed;z-index:99999999;top:0;width:35%;}
+
+#index   #header{  position: fixed;
+    top: 18px;
+}
+
+
+#ad_headerbanner {
+    margin: 234px 500px;
+    position: absolute;
+
+</style>
