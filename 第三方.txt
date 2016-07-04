@@ -1,0 +1,12 @@
+<style>.postmenu a:hover,#visitedforums_menu a:hover{text-decoration:none;color:#FFF;border:0;background:#1771E8;width:83px;}#newspecial_menu{overflow:hidden;padding-left:3px;text-align:left;background:#3f8ff9;width:90px;}.postmenu li,.postmenu .poll,.postmenu .reward,.postmenu .debate,.postmenu .trade{background:none!important;}.replybtn a{background:url(http://i12.tietuku.com/3d6361c9c5fe2c42.png) 2px 49px;}.postbtn a{background:url(http://i12.tietuku.com/f16aaaccc75b568e.png) 0px 50px;}.postbtn a,.replybtn a{display:block;padding-left:41px;color:#FFF;letter-spacing:5px;font-size:21px;padding-top:8px;height:36px;}.postmenu a,#visitedforums_menu a{display:block;border:0;padding-left:13px;font-size:18px;color:#FFF;}.postbtn,.replybtn{width:105px;height:44px;background:none;background:#3f8ff9;border-bottom:4px solid #1771e8;}</style>
+
+
+
+<style>
+.totop{position:fixed;right:25px;bottom:25px;display:block;width:26px;height:62px;background:url(http://help.imotor.com/attachments/month_1602/16022312409edcb24bf1e26d98.png) no-repeat 0 0;-webkit-transition: all 0.2s ease-in-out;}
+.totop:hover{background:url(http://help.imotor.com/attachments/month_1602/16022312409edcb24bf1e26d98.png) no-repeat 0 -62px;}
+</style>
+<script type="text/javascript" src="http://help.imotor.com/attachments/month_1602/16022312383b2701cbbd8d7178.attach"></script>
+
+<a href="#" onclick="gotoTop();return false;" class="totop"></a>
+
