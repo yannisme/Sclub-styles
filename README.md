@@ -12,13 +12,9 @@
 ```
 
 
-```markdown
-![1-1][1]
+
 [1]: http://help.imotor.com/attachments/month_1602/16022416381b0e0ae32c4766f2.png
 
-![1-2][2]
 [2]: http://help.imotor.com/attachments/month_1602/16022416382999a865c79eb232.png
 
-![1-3][3]
 [3]:http://help.imotor.com/attachments/month_1602/1602241638ae7eaa1e53d116d4.png
-```
