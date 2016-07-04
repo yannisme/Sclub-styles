@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Style]]></item>
+	<item id="Version"><![CDATA[7.2]]></item>
+	<item id="Time"><![CDATA[2015-08-29 21:18]]></item>
+	<item id="From"><![CDATA[Yannis.! (http://help.imotor.com/)]]></item>
+	<item id="Data">
+		<item id="name"><![CDATA[Comeings.! [王者归来]]]></item>
+		<item id="templateid"><![CDATA[1]]></item>
+		<item id="tplname"><![CDATA[默認模板套系]]></item>
+		<item id="directory"><![CDATA[./templates/default]]></item>
+		<item id="copyright"><![CDATA[康盛創想（北京）科技有限公司]]></item>
+		<item id="style">
+			<item id="headerborder"><![CDATA[1px]]></item>
+			<item id="headerbordercolor"><![CDATA[#060606]]></item>
+			<item id="headerbgcolor"><![CDATA[]]></item>
+			<item id="headertext"><![CDATA[#FFF]]></item>
+			<item id="footertext"><![CDATA[#999999]]></item>
+			<item id="menuborder"><![CDATA[none]]></item>
+			<item id="menubgcolor"><![CDATA[none]]></item>
+			<item id="stypeid"><![CDATA[1]]></item>
+			<item id="available"><![CDATA[]]></item>
+			<item id="boardimg"><![CDATA[http://121.199.40.152/comeing/20140107/template/comeing_ncy/comeing/logo.png]]></item>
+			<item id="imgdir"><![CDATA[]]></item>
+			<item id="styleimgdir"><![CDATA[]]></item>
+			<item id="font"><![CDATA[微软雅黑,Verdana, Helvetica, Arial, sans-serif;}.quote{width:75% !imoprtant;border:1px dashed #DDD !imoprtant;background:#f7f7f7 url(http://i1.tietuku.com/b6b20e641baa951a.png) right top no-repeat !important;margin:10px 0 !important;padding:5px 10px !important;padding:2px 2px 2px 2px !important;border:1px dashed #DDD;}.quote blockquote{background:none !important;}.list tbody th{background:none !important;padding-left:5px !important}.content {padding: 21px 2px!important;}#index .pages_btns {display:none;}.list {border:0!important;    padding-bottom: 10px!important;}#menu{top: 40px;}#menu a {font-size: 14px;height: 49px!important;line-height: 48px!important;}#menu a:hover{border-bottom:3px solid #C8C8C8;height: 52px!important;}.datalist table {width: 973px!important;position: relative!important;right: -8px!important;}#header h2 {float: left;position: relative;top: 8px;}#forumdisplay #nav{display:none;}#forumdisplay .content {top: 2px;border: 1px dashed #C2D5E3;position: relative;right: 1px;width: 942px!important;padding-left: 17px!important;padding-right: 14px!important;padding-top: 18px!important;}#forumdisplay #forumheader {width: 957px;position: relative!important;right: 18px;top: -19px;border: 1px dashed #C2D5E3;background: #F9F9F9;}#forumdisplay #threadlist {width: 981px;right: 25px;}#forumdisplay .threadtype {padding: 5px 0px 7px 13px;width: 960px;position: relative;right: 17px;border-top: 3px solid #E6E7E1;}#forumheader {border:1px #cdcdcd solid; padding:8px;line-height: 24px;width: 965px;position: relative;right: 26px;top: -18px;}.postauthor{width:56px !important;background:none !important;}#viewthread .avatar img{border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border:1px solid #ccc !important;width:84px !important;height:84px !important;-moz-box-shadow:0px 0px 1px #aaa;-webkit-box-shadow:0px 0px 1px #aaa;box-shadow:0px 0px 2px #aaa;border:0 !important;padding:0 !important;border-bottom:1px solid #0A2939 !important\9;}#viewthread .avatar img:hover{border:1px solid #33baf5 !important;margin-top:-1px !important;margin-bottom:-1px !important;webkit-transition-duration:0s,0s;-moz-transition-duration:0s,0s;-o-transition-duration:0s,0s;transition-duration:0s,0s;}.postauthor dt,.postauthor dd{display:none !important;}.postauthor p{display:none !important;}.popuserinfo p{display:inline !important;}.popuserinfo div{display:inline !important;}.popuserinfo dt,.popuserinfo dd{display:inline !important;}.popavatar{width:90px !important;}.popavatar .avatar{padding-right:20px !important;}.popavatar .profile_side{padding-top:5px !important;}.popavatar div p{display:inline !important;margin-left:10px !important;}.useraction{margin-left:0 !important;padding:0px !important;padding-left:10px !important;background:#eeeeee !important;height:18px !important;border-radius:3px 3px 3px 3px !important;-moz-border-radius:3px 3px 3px 3px !important;border:1px solid #FFFFFF !important;font-weight:700 !important;}.useraction a{background:none;margin-top:-30px !important;font-size:12px !important;color:#636a86 !important;}#viewthread #ajax_favorite{background:none;}.forumcontrol .modaction span,.forumcontrol td .replybtn,.forumcontrol td .postbtn{display:block!important;}.forumcontrol td .pageback{display:none;}.forumcontrol td span{display:none;}#viewthread .forumcontrol table{position:fixed;width:auto !important;bottom:10px;left:10px;box-shadow:0px 1px 8px #999;background:#fff !important;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;border-bottom:2px solid #B9BDC2\9;_display:none;z-index:1;}.mainbox td.postauthor {  overflow: visible!important;position: relative;left:75px;}.postauthor .popupmenu_popup {width: 126px;}.userinfopanel{border:0!important;}.editorcontent{background:none!important;}.searchform {border:0!important;background:none!important;}]]></item>
+			<item id="fontsize"><![CDATA[12px]]></item>
+			<item id="smfont"><![CDATA[微软雅黑,Verdana, Helvetica, Arial, sans-serif]]></item>
+			<item id="smfontsize"><![CDATA[0.83em]]></item>
+			<item id="tabletext"><![CDATA[#444]]></item>
+			<item id="midtext"><![CDATA[#666]]></item>
+			<item id="lighttext"><![CDATA[#999]]></item>
+			<item id="link"><![CDATA[#000]]></item>
+			<item id="highlightlink"><![CDATA[#09C]]></item>
+			<item id="noticetext"><![CDATA[#1D84D6]]></item>
+			<item id="msgfontsize"><![CDATA[14px]]></item>
+			<item id="msgbigsize"><![CDATA[16px]]></item>
+			<item id="bgcolor"><![CDATA[]]></item>
+			<item id="sidebgcolor"><![CDATA[#FFF]]></item>
+			<item id="menutext"><![CDATA[#FFF]]></item>
+			<item id="menuhover"><![CDATA[none]]></item>
+			<item id="menuhovertext"><![CDATA[#444]]></item>
+			<item id="wrapwidth"><![CDATA[960px]]></item>
+			<item id="wrapbg"><![CDATA[#FFF]]></item>
+			<item id="wrapborder"><![CDATA[0]]></item>
+			<item id="wrapbordercolor"><![CDATA[]]></item>
+			<item id="contentwidth"><![CDATA[600px]]></item>
+			<item id="contentseparate"><![CDATA[none]]></item>
+			<item id="inputborder"><![CDATA[#CCC]]></item>
+			<item id="inputborderdarkcolor"><![CDATA[#999]]></item>
+			<item id="inputbg"><![CDATA[#FFF]]></item>
+			<item id="commonborder"><![CDATA[#E6E7E1]]></item>
+			<item id="commonbg"><![CDATA[#F7F7F7]]></item>
+			<item id="specialborder"><![CDATA[#F7F7F7]]></item>
+			<item id="specialbg"><![CDATA[#F7F7F7]]></item>
+			<item id="interleavecolor"><![CDATA[#F5F5F5]]></item>
+			<item id="dropmenuborder"><![CDATA[#CCC]]></item>
+			<item id="dropmenubgcolor"><![CDATA[#FEFEFE]]></item>
+			<item id="floatmaskbgcolor"><![CDATA[#E1E1E1]]></item>
+			<item id="floatbgcolor"><![CDATA[#E9E9E9]]></item>
+		</item>
+		<item id="version"><![CDATA[7.2]]></item>
+	</item>
+</root>
