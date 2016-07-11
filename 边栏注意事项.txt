@@ -1,0 +1,5 @@
+可以添加图片或者不开启边栏方案
+
+
+[图片链接]边栏代码：
+<a href="http://help.imotor.com//viewthread.php?tid=47&extra=page%3D1"><img src="http://help.imotor.com//attachments/month_1603/16030418055832dbfc89947acb.png" alt="点击查看新风格"></a>

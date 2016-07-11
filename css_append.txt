@@ -1,0 +1,187 @@
+# THIS CODE IS PART OF YANNIS PROJECT
+# DON`T COPY AGAIN
+# 300 [三百] 风格
+# And the experience from "Yannis" without permission prohibited reproduced.!
+# Please do not for a second change and release
+# 请勿进行二次更改并发布，版权归Yannis所有
+
+.quote{width:75% !imoprtant;border:1px dashed #DDD !imoprtant;margin:10px 0 !important;padding:5px 10px !important;padding:2px 2px 2px 2px !important;border:1px dashed #DDD;}.quote blockquote{background:none !important;}#yannis{is:yannis}.popuserinfo{width:200px;}.userinfopanel{width:135px;margin-left:6px;margin-bottom:12px;}
+.entry-content h4{display:none;}
+
+.entry-content, .hslice {
+    margin-top: -19px;
+}
+
+.entry-content{  border: 2px solid #353942;}
+.forumcount {
+    margin-top: 24px;
+}
+
+.itemtitle li {
+    margin-top: 24px;
+}
+
+body{background:url(http://help.imotor.com//attachments/month_1603/16030416553d87a0ff5be0155d.png) repeat-x top fixed;}
+#wrap { background: transparent!important;}
+.list {
+    border: 2px solid #353942;
+    margin-bottom: 10px;
+    background: #FFF;
+}
+#index .pages_btns {
+
+    display: none;}
+.list td, .list th {
+    border-top: 1px solid #353942;
+}
+.itemtitle {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: -11px;
+    line-height: 23px;
+    position: relative;
+    top: -21px;
+}
+.mainbox.list h3 a {
+    color: #FFF;
+}
+#forumdisplay #threadlist {border: 2px solid #353942;    background: #FFF;   
+    right: auto;}
+.list h3 {
+    color: #FFF!important;
+    background: #365168;
+}.datalist .datatable, .datalist .datatable th, .datalist .datatable td {
+    padding: 9px 0 10px 22px;    border-width: 0;
+}#forumdisplay .content { border:0;}.pages a:hover, .pageback a, .pages a.next {
+    border: 2px solid #353942;
+    color: #353942;
+}dl.profile.s_clear {
+    color: #DDD;
+}.postauthor p, .postauthor dl.profile {
+    margin: 5px 10px 5px 20px;
+    color: #DDD;
+}td.postauthor a {
+    color: #DDD;
+}.threadad td.postauthor {
+    background: rgba(0, 0, 4, 0.66)!important;
+}.adcontent {background: rgba(0, 0, 4, 0.66)!important;
+}
+.quote {
+    width: 75% !imoprtant;
+    border: 1px dashed #DDD !imoprtant;
+   background: #34393D url(' ')!IMPORTANT;
+    margin: 10px 0 !important;
+    padding: 5px 10px !important;
+    border: 1px dashed #DDD;
+    color: #DDD;
+}.shadowline {
+    border-color: #4C4E52;}
+
+}
+.postauthor{border-right: 0!important; 
+}#nav,#sidebar_img{position:absolute!important;margin-left:-99999px!important;margin-top:-99999px!important;}#header h2 {
+    float: left;
+    left: 24px;
+    position: relative;
+    top: 16px;
+}#umenu {
+    position: absolute;
+    left: 21px;
+    top: 5px;
+    line-height: 20px;
+}#viewthread #wrap {
+    padding: 0px 0px 0px 45px;
+}#forumdisplay .threadtype {
+    padding: 0;
+    width: auto; 
+    position: relative;
+   right: 0;
+    border-top: 0;
+}
+
+
+<!--让你的论坛真正的动起来-->
+<style>
+@keyframes pop{
+0%{opacity:0;transform:scale(0.2);-ms-transform:scale(0.2);}
+60%{opacity:0.75;transform:scale(1.1);-ms-transform:scale(1.1);}
+100%{opacity:1;transform:scale(1);-ms-transform:scale(1);}
+}
+@-moz-keyframes pop{
+0%{opacity:0;-moz-transform:scale(0.2);}
+60%{opacity:0.75;-moz-transform:scale(1.1);}
+100%{opacity:1;-moz-transform:scale(1);}
+}
+@-webkit-keyframes pop{
+0%{opacity:0;-webkit-transform:scale(0.2);}
+60%{opacity:0.75;-webkit-transform:scale(1.1);}
+100%{opacity:1;-webkit-transform:scale(1);}
+}
+@keyframes fastr{
+0%{opacity:0;transform:translate(0,60px);}
+100%{opacity:1;transform:translate(0,0);}
+}
+@-webkit-keyframes fastr{
+0%{opacity:0;-webkit-transform:translate(0,60px);}
+100%{opacity:1;-webkit-transform:translate(0,0);}
+}
+@-moz-keyframes fastr{
+0%{opacity:0;-moz-transform:translate(0,60px);}
+100%{opacity:1;-moz-transform:translate(0,0);}
+}
+@keyframes afastr{
+0%{opacity:0;transform:translate(0,-60px);}
+67%{opacity:1;transform:translate(0,0);}
+86%{opacity:1;transform:translate(0,-2px);}
+100%{opacity:1;transform:translate(0,0);}
+}
+@-webkit-keyframes afastr{
+0%{opacity:0;-webkit-transform:translate(0,-60px);}
+67%{opacity:1;-webkit-transform:translate(0,0);}
+86%{opacity:1;-webkit-transform:translate(0,-2px);}
+100%{opacity:1;-webkit-transform:translate(0,0);}
+}
+@-moz-keyframes afastr{
+0%{opacity:0;-moz-transform:translate(0,-60px);}
+67%{opacity:1;-moz-transform:translate(0,0);}
+86%{opacity:1;-moz-transform:translate(0,-2px);}
+100%{opacity:1;-moz-transform:translate(0,0);}
+}
+@keyframes fastscale{
+0%{opacity:0;transform:scale(0.2,1) translate(-226px,0);}
+100%{opacity:1;transform:scale(1,1) translate(0,0);}
+}
+@-webkit-keyframes fastscale{
+0%{opacity:0;-webkit-transform:scale(0.2,1) translate(-226px,0);}
+100%{opacity:1;-webkit-transform:scale(1,1) translate(0,0);}
+}
+@-moz-keyframes fastscale{
+0%{opacity:0;-moz-transform:scale(0.2,1) translate(-226px,0);}
+100%{opacity:1;-moz-transform:scale(1,1) translate(0,0);}
+}
+.fwinmask{animation:pop 0.4s;-moz-animation:pop 0.4s;-webkit-animation:pop 0.4s;}
+.p_pop{animation:afastr 0.2s;-moz-animation:afastr 0.2s;-webkit-animation:afastr 0.2s;}
+.fastpreview{animation:afastr 0.5s;-webkit-animation:afastr 0.5s;-moz-animation:afastr 0.5s;}
+.defaultpost{animation:fastr 0.5s;-webkit-animation:fastr 0.5s;-moz-animation:fastr 0.5s;}
+.tip{animation:pop 0.3s;-webkit-animation:pop 0.3s;-moz-animation:pop 0.3s;}
+.jfts{animation:pop 0.3s;-webkit-animation:pop 0.3s;-moz-animation:pop 0.3s;}
+.vipde{animation:pop 0.3s;-webkit-animation:pop 0.3s;-moz-animation:pop 0.3s;}
+.t_attach{animation:pop 0.3s;-webkit-animation:pop 0.3s;-moz-animation:pop 0.3s;}
+#header h2{animation:afastr 0.4s;-webkit-animation:afastr 0.4s;-moz-animation:afastr 0.4s;}
+#umenu,#Jasper_toptb,.moreconf,#jff{animation:afastr 1s;-webkit-animation:afastr 1s;-moz-animation:afastr 1s;}
+#header h2{transition:all .15s ease-out;-webkit-transition:all .15s ease-out;-moz-transition:all .15s ease-out;}
+#header h2:hover{transform:scale(1.07) rotate(-1deg);-webkit-transform:scale(1.07) rotate(-1deg);-moz-transform:scale(1.07) rotate(-1deg);}
+.avt_y{transition:all .15s ease-out;-webkit-transition:all .15s ease-out;-moz-transition:all .15s ease-out;}
+.avt_y:hover{transform:scale(1.07);-webkit-transform:scale(1.07);-moz-transform:scale(1.07);}
+#scbar_txt{transition:all 0.25s ease;-webkit-transition:all 0.25s ease;-moz-transition:all 0.25s ease;}
+#scbar_txt:focus,#scbar:hover #scbar_txt{width:450px}
+#ls_username,#ls_password{transition:all 0.25s ease;-webkit-transition:all 0.25s ease;-moz-transition:all 0.25s ease;}
+#ls_username:focus,#ls_password:focus{transform:scale(1.1);-webkit-transform:scale(1.1);-moz-transform:scale(1.1);}
+a{transition:all 0.2s linear;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;}
+a:hover,a:visited:hover{text-shadow:#585858 0px 0px 3px;text-decoration:none;}
+.fl_g:hover img{transform:scale(1.2);-webkit-transform:scale(1.2);-moz-transform:scale(1.2);}
+
+.appl img,.fl_icn_g img{transition:all 0.2s linear;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;}
+.appl li:hover img{transform:rotate(20deg);-webkit-transform:rotate(20deg);-moz-transform:rotate(20deg);}
+.userinfopanel{animation:fastscale 0.2s;-webkit-animation:fastscale 0.2s;-moz-animation:fastscale 0.2s;}
+</style>

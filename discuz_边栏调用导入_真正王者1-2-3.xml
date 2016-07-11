@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Request]]></item>
+	<item id="Version"><![CDATA[7.2]]></item>
+	<item id="Time"><![CDATA[2016-07-11 17:03]]></item>
+	<item id="From"><![CDATA[Yannis.! (http://help.imotor.com/)]]></item>
+	<item id="Data">
+		<item id="__真正王者_1">
+			<item id="url"><![CDATA[function=threads&sidestatus=0&maxlength=50&fnamelength=0&messagelength=&startrow=0&picpre=&items=8&tag=&tids=6_45_42_25_16_47_44_27&special=0&rewardstatus=&digest=0&stick=0&recommend=0&newwindow=1&threadtype=0&threadsort=0&highlight=0&orderby=lastpost&hours=0&jscharset=0&jstemplate=%20%3Cdiv%20id%3D%5C%22contentx%5C%22%3E%20%0D%0A%20%20%20%20%20%3Cdiv%20class%3D%5C%22rotator%5C%22%3E%0D%0A%3Cul%20id%3D%5C%22rotmenu%5C%22%3E%0D%0A%0D%0A%3C%2Ful%3E%0D%0A%0D%0A%3Cdiv%20class%3D%5C%22description%5C%22%3E%0D%0A%09%3Cdiv%20class%3D%5C%22module%20cl%20xl%20xl1%5C%22%3E%0D%0A%09%09%3Cdl%3E%0D%0A%0D%0A%5Bnode%5D%09%09%09%0D%0A%3Cdd%3E%0D%0A%3Ch3%20style%3D%5C%22overflow%3A%20hidden%3Bword-wrap%3A%20break-word%3B%20margin%3A%200px%3B%20padding%3A%200px%3B%20font-size%3A%2030px%3B%20border%3A%200px%3B%20outline%3A%200px%3B%20width%3A%2026px%3B%20height%3A%2019px%3B%20display%3A%20block%3B%20float%3A%20left%3B%20font-weight%3A%20normal%3B%20line-height%3A%2030px%3B%20font-style%3A%20italic%3B%5C%22%3E%0D%0A%09%09%09%7Border%7D.%3C%2Fh3%3E%3Ca%20title%3D%5C%22%7Bsubject_nolink%7D%5C%22%20target%3D%5C%22_blank%5C%22%20style%3D%5C%22word-wrap%3A%20break-word%3B%20color%3A%20rgb%2854%2C%2081%2C%20104%29%3B%3B%20text-decoration%3A%20none%3B%20margin%3A%200px%3B%20padding%3A%200px%3B%20border%3A%200px%3B%20outline%3A%200px%3B%5C%22%20href%3D%5C%22%7Blink%7D%5C%22%3E%0D%0A%09%09%09%7Bsubject_nolink%7D%3C%2Fa%3E%3C%2Fdd%3E%0D%0A%0D%0A%5B%2Fnode%5D%0D%0A%09%09%0D%0A%09%09%3C%2Fdl%3E%0D%0A]]></item>
+			<item id="parameter">
+				<item id="jstemplate"><![CDATA[ <div id=\"contentx\"> 
+     <div class=\"rotator\">
+<ul id=\"rotmenu\">
+
+</ul>
+
+<div class=\"description\">
+	<div class=\"module cl xl xl1\">
+		<dl>
+
+[node]			
+<dd>
+<h3 style=\"overflow: hidden;word-wrap: break-word; margin: 0px; padding: 0px; font-size: 30px; border: 0px; outline: 0px; width: 26px; height: 19px; display: block; float: left; font-weight: normal; line-height: 30px; font-style: italic;\">
+			{order}.</h3><a title=\"{subject_nolink}\" target=\"_blank\" style=\"word-wrap: break-word; color: rgb(54, 81, 104);; text-decoration: none; margin: 0px; padding: 0px; border: 0px; outline: 0px;\" href=\"{link}\">
+			{subject_nolink}</a></dd>
+
+[/node]
+		
+		</dl>
+]]></item>
+				<item id="cachelife"><![CDATA[]]></item>
+				<item id="sidestatus"><![CDATA[0]]></item>
+				<item id="startrow"><![CDATA[0]]></item>
+				<item id="items"><![CDATA[8]]></item>
+				<item id="maxlength"><![CDATA[50]]></item>
+				<item id="fnamelength"><![CDATA[0]]></item>
+				<item id="messagelength"><![CDATA[]]></item>
+				<item id="picpre"><![CDATA[]]></item>
+				<item id="keyword"><![CDATA[]]></item>
+				<item id="tag"><![CDATA[]]></item>
+				<item id="threadtype"><![CDATA[0]]></item>
+				<item id="threadsort"><![CDATA[0]]></item>
+				<item id="highlight"><![CDATA[0]]></item>
+				<item id="recommend"><![CDATA[0]]></item>
+				<item id="newwindow"><![CDATA[1]]></item>
+				<item id="orderby"><![CDATA[lastpost]]></item>
+				<item id="hours"><![CDATA[]]></item>
+				<item id="jscharset"><![CDATA[0]]></item>
+				<item id="boardurl"><![CDATA[]]></item>
+			</item>
+			<item id="comment"><![CDATA[]]></item>
+			<item id="type"><![CDATA[0]]></item>
+		</item>
+		<item id="__真正王者_2">
+			<item id="url"><![CDATA[function=threads&sidestatus=0&maxlength=50&fnamelength=0&messagelength=&startrow=0&picpre=&items=7&tag=&tids=&special=0&rewardstatus=&digest=0&stick=0&recommend=0&newwindow=1&threadtype=0&threadsort=0&highlight=1&orderby=replies&hours=0&jscharset=0&jstemplate=%20%3Cdiv%20id%3D%5C%22contentx2%5C%22%3E%20%0D%0A%20%20%20%20%20%3Cdiv%20class%3D%5C%22rotator%5C%22%3E%0D%0A%3Cul%20id%3D%5C%22rotmenu%5C%22%3E%0D%0A%0D%0A%3C%2Ful%3E%0D%0A%0D%0A%3Cdiv%20class%3D%5C%22description%5C%22%3E%0D%0A%09%3Cdiv%20class%3D%5C%22module%20cl%20xl%20xl1%5C%22%3E%0D%0A%09%09%3Cdl%3E%0D%0A%0D%0A%5Bnode%5D%09%09%09%0D%0A%3Cdd%3E%0D%0A%3Ch3%20style%3D%5C%22overflow%3A%20hidden%3Bword-wrap%3A%20break-word%3B%20margin%3A%200px%3B%20padding%3A%200px%3B%20font-size%3A%2030px%3B%20border%3A%200px%3B%20outline%3A%200px%3B%20width%3A%2026px%3B%20height%3A%2019px%3B%20display%3A%20block%3B%20float%3A%20left%3B%20font-weight%3A%20normal%3B%20line-height%3A%2030px%3B%20font-style%3A%20italic%3B%5C%22%3E%0D%0A%09%09%09%7Border%7D.%3C%2Fh3%3E%3Ca%20title%3D%5C%22%7Bsubject_nolink%7D%5C%22%20target%3D%5C%22_blank%5C%22%20style%3D%5C%22word-wrap%3A%20break-word%3B%20color%3A%20rgb%2854%2C%2081%2C%20104%29%3B%3B%20text-decoration%3A%20none%3B%20margin%3A%200px%3B%20padding%3A%200px%3B%20border%3A%200px%3B%20outline%3A%200px%3B%5C%22%20href%3D%5C%22%7Blink%7D%5C%22%3E%0D%0A%09%09%09%7Bsubject_nolink%7D%3C%2Fa%3E%3C%2Fdd%3E%0D%0A%0D%0A%5B%2Fnode%5D%0D%0A%09%09%0D%0A%09%09%3C%2Fdl%3E%0D%0A]]></item>
+			<item id="parameter">
+				<item id="jstemplate"><![CDATA[ <div id=\"contentx2\"> 
+     <div class=\"rotator\">
+<ul id=\"rotmenu\">
+
+</ul>
+
+<div class=\"description\">
+	<div class=\"module cl xl xl1\">
+		<dl>
+
+[node]			
+<dd>
+<h3 style=\"overflow: hidden;word-wrap: break-word; margin: 0px; padding: 0px; font-size: 30px; border: 0px; outline: 0px; width: 26px; height: 19px; display: block; float: left; font-weight: normal; line-height: 30px; font-style: italic;\">
+			{order}.</h3><a title=\"{subject_nolink}\" target=\"_blank\" style=\"word-wrap: break-word; color: rgb(54, 81, 104);; text-decoration: none; margin: 0px; padding: 0px; border: 0px; outline: 0px;\" href=\"{link}\">
+			{subject_nolink}</a></dd>
+
+[/node]
+		
+		</dl>
+]]></item>
+				<item id="cachelife"><![CDATA[]]></item>
+				<item id="sidestatus"><![CDATA[0]]></item>
+				<item id="startrow"><![CDATA[0]]></item>
+				<item id="items"><![CDATA[7]]></item>
+				<item id="maxlength"><![CDATA[50]]></item>
+				<item id="fnamelength"><![CDATA[0]]></item>
+				<item id="messagelength"><![CDATA[]]></item>
+				<item id="picpre"><![CDATA[]]></item>
+				<item id="keyword"><![CDATA[]]></item>
+				<item id="tag"><![CDATA[]]></item>
+				<item id="threadtype"><![CDATA[0]]></item>
+				<item id="threadsort"><![CDATA[0]]></item>
+				<item id="highlight"><![CDATA[1]]></item>
+				<item id="recommend"><![CDATA[0]]></item>
+				<item id="newwindow"><![CDATA[1]]></item>
+				<item id="orderby"><![CDATA[replies]]></item>
+				<item id="hours"><![CDATA[]]></item>
+				<item id="jscharset"><![CDATA[0]]></item>
+				<item id="boardurl"><![CDATA[]]></item>
+			</item>
+			<item id="comment"><![CDATA[]]></item>
+			<item id="type"><![CDATA[0]]></item>
+		</item>
+		<item id="__真正王者_3">
+			<item id="url"><![CDATA[function=threads&fids=6&sidestatus=0&maxlength=50&fnamelength=0&messagelength=&startrow=0&picpre=&items=1&tag=&tids=&special=0&rewardstatus=&digest=0&stick=0&recommend=0&newwindow=1&threadtype=0&threadsort=0&highlight=0&orderby=lastpost&hours=0&jscharset=0&jstemplate=%3Cscript%20type%3D%5C%22text%2Fjavascript%5C%22%3E%0D%0Avar%20slideSpeed%20%3D%202500%3B%0D%0Avar%20slideImgsize%20%3D%20%5B250%2C152%5D%3B%0D%0Avar%20slideTextBar%20%3D%200%3B%0D%0Avar%20slideBorderColor%20%3D%20%5C%27%23C8DCEC%5C%27%3B%0D%0Avar%20slideBgColor%20%3D%20%5C%27%23FFF%5C%27%3B%0D%0Avar%20slideImgs%20%3D%20new%20Array%28%29%3B%0D%0Avar%20slideImgLinks%20%3D%20new%20Array%28%29%3B%0D%0Avar%20slideImgTexts%20%3D%20new%20Array%28%29%3B%0D%0Avar%20slideSwitchBar%20%3D%201%3B%0D%0Avar%20slideSwitchColor%20%3D%20%5C%27black%5C%27%3B%0D%0Avar%20slideSwitchbgColor%20%3D%20%5C%27white%5C%27%3B%0D%0Avar%20slideSwitchHiColor%20%3D%20%5C%27%23C8DCEC%5C%27%3B%0D%0A%5Bnode%5D%0D%0AslideImgs%5B%7Border%7D%5D%20%3D%20%5C%22http%3A%2F%2Fi12.tietuku.cn%2F417ef8476da0be2e.png%5C%22%3B%0D%0AslideImgLinks%5B%7Border%7D%5D%20%3D%20%5C%22%7Blink%7D%5C%22%3B%0D%0AslideImgTexts%5B%7Border%7D%5D%20%3D%20%5C%22%7Bsubject%7D%5C%22%3B%0D%0A%5B%2Fnode%5D%0D%0A%3C%2Fscript%3E%0D%0A%3Cscript%20language%3D%5C%22javascript%5C%22%20type%3D%5C%22text%2Fjavascript%5C%22%20src%3D%5C%22include%2Fjs%2Fslide.js%5C%22%3E%3C%2Fscript%3E]]></item>
+			<item id="parameter">
+				<item id="jstemplate"><![CDATA[<script type=\"text/javascript\">
+var slideSpeed = 2500;
+var slideImgsize = [250,152];
+var slideTextBar = 0;
+var slideBorderColor = \'#C8DCEC\';
+var slideBgColor = \'#FFF\';
+var slideImgs = new Array();
+var slideImgLinks = new Array();
+var slideImgTexts = new Array();
+var slideSwitchBar = 1;
+var slideSwitchColor = \'black\';
+var slideSwitchbgColor = \'white\';
+var slideSwitchHiColor = \'#C8DCEC\';
+[node]
+slideImgs[{order}] = \"http://i12.tietuku.cn/417ef8476da0be2e.png\";
+slideImgLinks[{order}] = \"{link}\";
+slideImgTexts[{order}] = \"{subject}\";
+[/node]
+</script>
+<script language=\"javascript\" type=\"text/javascript\" src=\"include/js/slide.js\"></script>]]></item>
+				<item id="cachelife"><![CDATA[]]></item>
+				<item id="sidestatus"><![CDATA[0]]></item>
+				<item id="startrow"><![CDATA[0]]></item>
+				<item id="items"><![CDATA[1]]></item>
+				<item id="maxlength"><![CDATA[50]]></item>
+				<item id="fnamelength"><![CDATA[0]]></item>
+				<item id="messagelength"><![CDATA[]]></item>
+				<item id="picpre"><![CDATA[]]></item>
+				<item id="keyword"><![CDATA[]]></item>
+				<item id="tag"><![CDATA[]]></item>
+				<item id="threadtype"><![CDATA[0]]></item>
+				<item id="threadsort"><![CDATA[0]]></item>
+				<item id="highlight"><![CDATA[0]]></item>
+				<item id="recommend"><![CDATA[0]]></item>
+				<item id="newwindow"><![CDATA[1]]></item>
+				<item id="orderby"><![CDATA[lastpost]]></item>
+				<item id="hours"><![CDATA[]]></item>
+				<item id="jscharset"><![CDATA[0]]></item>
+				<item id="boardurl"><![CDATA[]]></item>
+			</item>
+			<item id="comment"><![CDATA[]]></item>
+			<item id="type"><![CDATA[0]]></item>
+		</item>
+	</item>
+</root>
