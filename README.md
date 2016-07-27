@@ -10,7 +10,7 @@ Sclub论坛风格,风格
 其他頭部信息:
 <style>html{width:100%;height:100%;}</style>
 
-[IMPORTANT]TingMC-听麦克风 背景图片失效修复
+# [IMPORTANT] TingMC-听麦克风 背景图片失效修复
 链接地址：http://help.imotor.com/viewthread.php?tid=64
 ```
 [![1](https://raw.githubusercontent.com/yannisme/styles/%E6%95%88%E6%9E%9C%E5%9B%BE%26%E5%9B%BE%E7%89%87/41.png)](https://github.com/yannisme/styles/tree/1984%E5%B9%B4-%E5%8D%9A%E5%AE%A2%E9%A3%8E)
